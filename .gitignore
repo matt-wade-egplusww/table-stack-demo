@@ -7,4 +7,4 @@ dist
 generated
 
 # Allow us to store our build in the repo
-# build
+# docs/
